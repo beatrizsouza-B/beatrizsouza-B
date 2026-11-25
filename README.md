@@ -1,5 +1,3 @@
-## Olá, meu nome é Beatriz Souza
-
 
 <h1 align="center">Olá! Eu sou Beatriz Souza 👩‍💻</h1>
 
